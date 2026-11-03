@@ -46,7 +46,7 @@ Al agrupar clientes por país, **Noruega aparecía duplicada**. La causa: alguno
 | ¿Cada cuánto vuelven a comprar los clientes? | En promedio cada ~211 días (mediana 224). Los clientes más grandes compran mucho más seguido: Euro+ cada ~34 días y Mini Gifts cada ~50. |
 | ¿Qué carga tiene cada representante de ventas? | Cada representante atiende entre 5 y 10 clientes. 22 de los 122 clientes no tienen representante asignado. |
 
-Las consultas completas, comentadas por pregunta, están en [`sql/classicmodels_consultas.sql`](sql/Consultas_ClassicModels.sql).
+Las consultas completas, comentadas por pregunta, están en [`ClassicModels/Consultas_ClassicModels.sql`](ClassicModels/Consultas_ClassicModels.sql).
 
 ## Dashboard
 
