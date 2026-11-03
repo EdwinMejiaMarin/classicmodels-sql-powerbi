@@ -2,12 +2,12 @@
 
 Proyecto de análisis de datos de punta a punta sobre la base de datos de ejemplo **Classic Models** (una distribuidora de modelos a escala): exploración y limpieza con **MySQL**, y presentación de los hallazgos en un dashboard de **Power BI**.
 
-<!-- Sustituye la ruta por tu captura de la página 1 del dashboard -->
+
 ![Dashboard](images/dashboard-resumen.png)
 
 ## Objetivo
 
-Responder preguntas de negocio sobre ingresos, clientes, productos y operación, y comunicar los resultados de forma clara a una persona que no sabe SQL.
+Responder preguntas de negocio sobre ingresos, clientes, productos y operación, y comunicar los resultados de forma clara.
 
 ## Herramientas
 
@@ -79,4 +79,4 @@ Los totales del dashboard se validaron contra los resultados de SQL: ingresos de
 
 ## Autor
 
-**[Tu nombre]** · [LinkedIn](https://www.linkedin.com/) · [Correo]
+**Edwin Mejía** · [LinkedIn]((https://www.linkedin.com/in/edwin-andres-mejia-marin-6a3646368/)) · [edwinandresmejiamarin@gmail.com]· [edwin.mejia@utp.edu.co]
