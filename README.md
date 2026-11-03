@@ -22,7 +22,7 @@ Cómo reproducirlo:
 
 1. Descarga el script de la base de datos desde [mysqltutorial.org](https://www.mysqltutorial.org/) (sección *MySQL Sample Database*).
 2. Ejecútalo en MySQL Workbench (*File → Run SQL Script*).
-3. Ejecuta `sql/classicmodels_consultas.sql` para ver las consultas del análisis.
+3. Ejecuta `ClassicModels/Consultas_ClassicModels.sql` para ver las consultas del análisis.
 
 > El script de la base de datos no se incluye en este repositorio; se enlaza a su fuente original.
 
